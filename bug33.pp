@@ -1,0 +1,3 @@
+define apache {
+  include apache
+}
